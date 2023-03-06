@@ -1,0 +1,6 @@
+dependencies:
+- name: common
+  repository: https://library-charts.truecharts.org
+  version: 12.2.19
+digest: sha256:84178562552081029088ea392fd88ee17ba2758a95b40bdaf7715216dc595d90
+generated: "2023-03-06T21:36:25.515866626Z"
