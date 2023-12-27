@@ -1,0 +1,45 @@
+{
+  "charts": {},
+  "test": {},
+  "dev": {},
+  "enterprise": {},
+  "dependency": {},
+  "operators": {},
+  "stable": {
+    "flextv": {
+      "app_readme": "<p>A super-sexy voice interface for the Plex HTPC.</p>\n<p>This App is supplied by TrueCharts, for more information visit the manual: <a href=\"https://truecharts.org/charts/stable/flextv\">https://truecharts.org/charts/stable/flextv</a></p>\n<hr />\n<p>TrueCharts can only exist due to the incredible effort of our staff.\nPlease consider making a <a href=\"https://truecharts.org/sponsor\">donation</a> or contributing back to the project any way you can!</p>",
+      "categories": [
+        "MediaApp"
+      ],
+      "description": "A super-sexy voice interface for the Plex HTPC.",
+      "healthy": true,
+      "healthy_error": null,
+      "home": "https://truecharts.org/charts/incubator/flextv",
+      "location": "/home/runner/work/catalog/catalog/stable/flextv",
+      "latest_version": "4.0.1",
+      "latest_app_version": "latest",
+      "latest_human_version": "latest_4.0.1",
+      "last_update": "2023-12-27 00:41:58",
+      "name": "flextv",
+      "recommended": false,
+      "title": "Flextv",
+      "maintainers": [
+        {
+          "name": "TrueCharts",
+          "email": "info@truecharts.org",
+          "url": "https://truecharts.org"
+        }
+      ],
+      "tags": [],
+      "screenshots": [],
+      "sources": [
+        "https://github.com/d8ahazard/FlexTV",
+        "https://registry.hub.docker.com/r/jcreynolds/flextv/",
+        "https://github.com/truecharts/charts/tree/master/charts/incubator/flextv",
+        "https://hub.docker.com/r/jcreynolds/flextv"
+      ],
+      "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/flextv.png"
+    }
+  },
+  "incubator": {}
+}
