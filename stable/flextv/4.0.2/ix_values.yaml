@@ -34,4 +34,3 @@ workload:
     podSpec:
       containers:
         main:
-          env:
